@@ -1,3 +1,5 @@
+remote_theme : mmistakes/minimal-mistakes
+
 # 설정
 제목 : Lanyon
 태그 라인 : '지킬 테마'
