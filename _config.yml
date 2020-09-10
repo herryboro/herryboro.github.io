@@ -1,0 +1,22 @@
+# 설정
+제목 : Lanyon
+태그 라인 : '지킬 테마'
+설명 : '숨겨진 서랍으로 콘텐츠에 최대한의 비중을 두는 예약 된 <a href="https://jekyllrb.com" target="_blank"> Jekyll </a> 테마입니다. <a href="https://twitter.com/mdo" target="_blank"> @mdo </a> 제작. '
+URL : http://lanyon.getpoole.com
+baseurl : ''
+페이지 매김 : 5
+퍼머 링크 : 예쁜
+
+# 정보 / 연락처
+저자:
+  이름 : Mark Otto
+  URL : https://twitter.com/mdo
+  이메일 : markdotto@gmail.com
+
+# 보석
+플러그인 :
+  -지킬 페이지
+
+# 맞춤 변수
+버전 : 1.1.0
+google_analytics_id : # UA-XXXX-Y
